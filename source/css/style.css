@@ -185,20 +185,20 @@ body {
     line-height: 25px;
 }
 
-.services .service:nth-child(1){
+.services .service:nth-child(1) {
     background-color: lightskyblue;
 }
 
-.services .service:nth-child(2){
+.services .service:nth-child(2) {
     background-color: lightpink;
 }
 
-@media(max-width:425px){
-    .services{
+@media(max-width:425px) {
+    .services {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(2 1fr);
     }
-    .services .service p{
+    .services .service p {
         font-size: 1.8rem;
     }
 }
