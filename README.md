@@ -56,8 +56,5 @@ Lnading Page responsiva e com menu modificado para o modelo "hambúrguer"
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         </li>
         <br>
-        <li>JavaScript
-        <img align="center" alt="Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        </li>
     </ul>
 </div>
